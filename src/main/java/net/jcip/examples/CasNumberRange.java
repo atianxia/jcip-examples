@@ -1,8 +1,9 @@
 package net.jcip.examples;
 
-import java.util.concurrent.atomic.*;
+import java.util.concurrent.atomic.AtomicReference;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.ThreadSafe;
+import net.jcip.chapter3.Immutable;
 
 /**
  * CasNumberRange
