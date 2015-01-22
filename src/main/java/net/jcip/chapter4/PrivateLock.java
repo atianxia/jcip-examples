@@ -1,6 +1,6 @@
-package net.jcip.examples;
+package net.jcip.chapter4;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.GuardedBy;
 
 /**
  * PrivateLock

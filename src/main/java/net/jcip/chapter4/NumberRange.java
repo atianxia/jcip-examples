@@ -1,4 +1,4 @@
-package net.jcip.examples;
+package net.jcip.chapter4;
 
 import java.util.concurrent.atomic.*;
 

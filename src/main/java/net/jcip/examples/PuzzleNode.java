@@ -1,8 +1,9 @@
 package net.jcip.examples;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.List;
 
-import net.jcip.annotations.*;
+import net.jcip.chapter3.Immutable;
 
 /**
  * PuzzleNode
